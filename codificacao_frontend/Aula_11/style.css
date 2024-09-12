@@ -1,0 +1,30 @@
+/*Elementos block*/
+h1{
+    background-color: brown;
+    height: 100px; /*Aumenta o tamanho do bloco*/
+    width: 1000px; /*Diminui o tamanho do bloco*/
+}     
+
+p{
+    background-color: burlywood;
+}
+
+/*Elementos do inline*/
+span{
+    background-color: cadetblue;
+    height: 100px;
+    width: 100px;
+    
+}
+.span2{
+    background-color: coral;
+
+}
+
+a{
+    display: inline-block;
+    width: 400px;
+    height: 200px;
+    background-color: darkolivegreen;
+
+}
